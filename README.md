@@ -1,5 +1,5 @@
 # jotifr.github.io
-## header 2
+## Jonas test
 
 list:
  - a
@@ -10,7 +10,7 @@ list:
 *italics*
 
 
-[l‰nk till dn](http://www.dn.se)
+[l√§nk till dn](http://www.dn.se)
 
 test22
 
